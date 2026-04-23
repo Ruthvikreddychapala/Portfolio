@@ -11,7 +11,6 @@ function Home() {
         <img src={profile} alt="Profile" className="profile" />
         <h1>Chapala Ruthvik Reddy</h1>
         <p className="tagline">
-          Full Stack Developer | AI Enthusiast
         </p>
 
         <Link to="/projects" className="btn">
