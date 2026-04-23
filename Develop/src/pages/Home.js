@@ -23,8 +23,7 @@ function Home() {
       <div className="card">
         <h2>About Me</h2>
         <p>
-          I am a passionate developer focused on building scalable web applications
-          and exploring modern technologies like AI and full-stack development.
+          I am currently pursuing my bachelor's degree in Artificial Intelligence at mahindra university. I developed a strong foundation in problem solving and computational thinking. Right now my main focus is exploring modern technologies like AI and Data Analysis.
         </p>
       </div>
 
@@ -33,8 +32,8 @@ function Home() {
         <h2>Research Interests</h2>
         <ul>
           <li>Artificial Intelligence</li>
-          <li>Web Development</li>
           <li>Data Science</li>
+          <li>Data Analysis</li>
         </ul>
       </div>
 
@@ -44,7 +43,7 @@ function Home() {
         <ul>
           <li><b>Phone:</b> +91 8309460258</li>
           <li><b>Email:</b> chapalaruthvikreddy@gmail.com</li>
-          <li><b>College Email:</b> se23uari023@mail.com</li>
+          <li><b>College Email:</b> se23uari023@mahindrauniversity.edu.in</li>
         </ul>
       </div>
 
@@ -52,6 +51,9 @@ function Home() {
       <div className="card">
         <h2>Skills</h2>
         <div className="skills">
+          <span>C</span>
+          <span>Python</span>
+          <span>MySQL</span>
           <span>React</span>
           <span>Node.js</span>
           <span>MongoDB</span>
